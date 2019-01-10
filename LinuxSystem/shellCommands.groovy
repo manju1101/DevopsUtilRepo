@@ -1,1 +1,1 @@
-MVN_CLEAR_PACKAGE=mvn clean package
+MVN_CLEAR_PACKAGE=mvn clean package 
