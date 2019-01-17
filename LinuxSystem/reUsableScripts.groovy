@@ -4,3 +4,4 @@ emailext body: "${currentBuild.currentResult}: Job ${env.JOB_NAME} build ${env.B
                     subject: "Jenkins Build ${currentBuild.currentResult}: Job ${env.JOB_NAME}"
                     
 }
+return this
